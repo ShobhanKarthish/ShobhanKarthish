@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hoenn-retro.gif" alt="Mudkip, Torchic and Treecko napping under a tree in a pixel-art village" />
+  <img src="assets/hoenn-strip.gif" alt="Mudkip, Torchic and Treecko napping under a tree in a pixel-art village" />
 </p>
 
 <p align="center">
